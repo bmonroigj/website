@@ -1,6 +1,19 @@
 {
   "name": "website",
-  "private": true,
+  "description": "Personal Website",
+  "version": "1.0.0",
+  "author": "Joaquin Bordes Monroig <bmonroigj@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bmonroigj/website"
+  },
+  "keywords": [
+    "next",
+    "react",
+    "tailwindcss",
+    "typescript"
+  ],
+  "license": "MIT",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
